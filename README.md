@@ -7,3 +7,4 @@ Data Analatics Tools
 >Power Bi
 >Tablu
 >Pythone
+> Haresh Luhar
